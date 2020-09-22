@@ -1,0 +1,13 @@
+Một interface là một lớp trừu tượng hoàn toàn, được dùng để nhóm một số phương thức rỗng.
+
+Không tạo được object từ interface.
+
+Phương thức của interface rỗng. Nó được viết cụ thể ở lớp implements nó.
+
+Khi implements một interface, chúng ta cần override tất cả phương thức của nó.
+
+Các phương thức của interface mặc định là abstract và public.
+
+Các thuộc tính của interface mặc định là public, static và final.
+
+Không có constructor (thế nên không tạo object).

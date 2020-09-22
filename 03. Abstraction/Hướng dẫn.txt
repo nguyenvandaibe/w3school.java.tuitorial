@@ -1,0 +1,10 @@
+Trừu tượng hóa dữ liệu là quá trình ẩn các chi tiết nhất định và hiển thị thông tin cần thiết cho người dùng.
+
+Sự trừu tượng hóa đạt được bằng cách sử dụng các lớp abstract hoặc interface.
+
+Từ khóa "abstract":
+	- abstract class: Không tạo trực tiếp đối tượng.
+	- abstract method: Chỉ có thể dùng trong abstract class, không có phần thân (phần cài đặt cụ thể). Phần thân được cài đặt cụ thể ở lớp con kế thừa.
+
+Tác dụng của abstract class và abstract method:
+	- An toàn: ẩn các chi tiết nhất định và chỉ thể hiện các chi tiết cần thiết của một object.
